@@ -36,7 +36,7 @@ ZERO_GRAVITY_PROTOCOL: |
 
 CHAOS_DIRECTIVE:
   minimum_consideration_thresholds:
-    - base_compensation: "ONLY $850K+ (negotiable upward based on impact)"
+    - base_compensation: "ONLY $1M+ (negotiable upward based on impact)"
     - equity_consideration: "0.5-2% (depends on stage)"
     - meeting_policy: "Minimal mandatory meetings"
     - work_arrangement: "Full global remote + creative autonomy"
