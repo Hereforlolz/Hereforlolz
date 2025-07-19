@@ -35,7 +35,7 @@ how_i_actually_work = {
 
 Most people either build traditional software OR use AI tools. I do both simultaneously. I think in prompts while architecting systems, which means I can get AI to solve problems that would take weeks of traditional coding.
 
-The short timeline isn't about being a genius - it's about finding the right communication patterns with AI and then systematically turning those patterns into production infrastructure.
+The short timeline isn't about being genius at this - it's about finding the right communication patterns with AI and then systematically turning those patterns into production infrastructure.
 
 ## What I'm Good At
 
