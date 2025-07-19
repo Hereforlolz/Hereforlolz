@@ -39,10 +39,10 @@ The short timeline isn't about being genius at this - it's about finding the rig
 
 ## What I'm Good At
 
-Making AI Predictable: I've figured out how to get consistent results from AI systems that everyone else says are "too random for production use."
-Systems That Work: All my projects include proper error handling, resource management, and recovery patterns. I build things ready for real use, even if nobody's tried them yet.
-Rapid Prototyping: Give me a problem and I can usually have a working solution within hours, not weeks. The AI collaboration speeds up everything.
-Functional Prototypes: I build things that actually work, not just proof-of-concepts. Everything I ship is demo-ready and could scale if someone wanted to use it.
+- Making AI Predictable: I've figured out how to get consistent results from AI systems that everyone else says are "too random for production use."
+- Systems That Work: All my projects include proper error handling, resource management, and recovery patterns. I build things ready for real use, even if nobody's tried them yet.
+- Rapid Prototyping: Give me a problem and I can usually have a working solution within hours, not weeks. The AI collaboration speeds up everything.
+- Functional Prototypes: I build things that actually work, not just proof-of-concepts. Everything I ship is demo-ready and could scale if someone wanted to use it.
 
 ## Currently Exploring
 
