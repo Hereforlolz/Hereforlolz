@@ -1,7 +1,7 @@
-Building AI Systems By Breaking and Learning
+## Building AI Systems By Breaking and Learning
 
 I’m someone who dives deep into how AI thinks, breaks things to see what happens, and builds systems that are stronger each time. Started this journey in May out of pure curiosity, and somehow ended up with production systems solving real problems – all while reworking my repos to be more secure, reliable, and future-proof.
-What I Actually Do
+## What I Actually Do
 
 I explore AI’s behavior patterns and build multi-agent systems around those insights. My approach is simple: treat AI like an unpredictable collaborator, study its quirks, and architect infrastructure that turns unpredictability into usable, resilient workflows.
 Stuff I’ve Been Breaking (and Building) Recently
@@ -14,7 +14,7 @@ Stuff I’ve Been Breaking (and Building) Recently
 
     Multi-Agent Pipeline – Automated ML workflows that keep running even when individual components fail (yes, I tested failure modes exhaustively).
 
-My Tech Stack (The Real One)
+## My Tech Stack (The Real One)
 
 how_i_actually_work = {
     # Core development approach
@@ -29,9 +29,9 @@ how_i_actually_work = {
         "Designing for recovery when AI inevitably does something weird",
         "Breaking things intentionally to find where reliability actually breaks"
     ]
-}
+    }
 
-Why This Approach Works
+## Why This Approach Works
 
 Most people either build traditional software or use AI tools. I do both at the same time. I think in prompts while architecting systems, which lets me explore solutions that aren’t obvious through code alone.
 
@@ -46,7 +46,7 @@ What I’m Good At
 
     Learning Through Failure: My systems get stronger because I intentionally push them to failure and design for recovery.
 
-Currently Exploring
+## Currently Exploring
 
     Secure patterns for multi-agent prompt systems (harder than it sounds)
 
@@ -56,14 +56,14 @@ Currently Exploring
 
     Bio-inspired resilience patterns for distributed AI networks
 
-Professional Stuff
+## Professional Stuff
 
 What I’m Looking For: Roles where I can explore AI’s frontiers as my primary tool – prototyping, experimenting, and building solutions to problems that don’t have obvious answers.
 
 Work Style: Autonomous, zero-gravity thinker who loves collaboration when solving hard problems. I build by doing, not by endlessly planning.
 
 Available For: Opportunities that let me build, break, learn, and ship.
-Real Talk
+## Real Talk
 
 I’m not a typical developer because I don’t develop in a typical way. I’m building the future of software engineering – where humans and AI collaborate as co-creators, not just tool and user.
 
