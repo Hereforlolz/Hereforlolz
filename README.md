@@ -16,8 +16,6 @@ Built role-specific prompt libraries, workflow playbooks, training workshops, an
 
 **Results**
 
-Impact
-
 ✓ Organization-wide AI adoption in 2 weeks
 
 ✓ ~50% reduction in engineer rework
