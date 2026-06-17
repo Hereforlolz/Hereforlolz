@@ -2,7 +2,7 @@
 
 TPM • AI Enablement • Systems Builder
 
-I like figuring out how new technology becomes useful.
+I build and deploy AI systems that move from prototype to real workflow use. My focus is turning LLM capabilities into production-style agents, testing them in real environments, and iterating based on user feedback and measurable outcomes.
 
 My background is in embedded systems, IoT, and technical program management. More recently I've been spending a lot of time experimenting with AI—building tools, testing workflows, and helping teams figure out where it genuinely saves time versus where it's just hype. 
 
