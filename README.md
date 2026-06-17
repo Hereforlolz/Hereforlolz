@@ -4,7 +4,7 @@ TPM • AI Enablement • Systems Builder
 
 I like figuring out how new technology becomes useful.
 
-My background is in embedded systems, IoT, and technical program management. More recently I've been spending a lot of time experimenting with AI—building tools, testing workflows, and helping teams figure out where it genuinely saves time versus where it's just hype.
+My background is in embedded systems, IoT, and technical program management. More recently I've been spending a lot of time experimenting with AI—building tools, testing workflows, and helping teams figure out where it genuinely saves time versus where it's just hype. 
 
 ---
 
@@ -16,9 +16,15 @@ Built role-specific prompt libraries, workflow playbooks, training workshops, an
 
 **Results**
 
-* Organization-wide adoption in two weeks
-* ~50% reduction in engineer rework
-* ~8 minutes of per-query waste eliminated
+Impact
+
+✓ Organization-wide AI adoption in 2 weeks
+
+✓ ~50% reduction in engineer rework
+
+✓ ~8 minutes eliminated per AI query
+
+✓ Built reusable prompt libraries and workflows used across engineering teams
 
 **Stack:** Qwen3 · Ollama · OpenWebUI
 
@@ -43,7 +49,7 @@ Using Groq, Llama 3.3 70B, Bolt, and Slack Socket Mode to help new team members 
 
 ## Background
 
-For the last 7+ years I've worked at the intersection of engineering execution and business outcomes, coordinating hardware, embedded, cloud, and data teams in IoT environments.
+For the last 7+ years I've worked at the intersection of engineering execution and business outcomes, coordinating hardware, embedded, cloud, and data teams in IoT environments. I help teams turn emerging AI capabilities into repeatable, measurable workflows that improve engineering productivity.
 
 Earlier in my career I worked in embedded systems at Trane Technologies and taught engineering labs while completing my M.S. in Electrical Engineering at the University of Texas at Tyler.
 
@@ -53,14 +59,16 @@ Along the way I've participated in 9+ hackathons, contributed to projects in the
 
 ---
 
-## Areas of Interest
+## Current Focus
 
-AI Enablement & Adoption
-Technical Program Management
-Workflow Automation
-AI Operations
-Solutions Engineering
-Systems & Product Operations
+• AI Enablement & Adoption
+• Agentic AI Systems
+• Technical Program Management
+• Workflow Automation
+• AI Governance
+• Multi-Agent Architectures
+• AWS Bedrock, Gemini, Ollama
+• LLM Evaluation & Prompt Engineering
 
 ---
 
