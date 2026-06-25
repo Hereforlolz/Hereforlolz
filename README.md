@@ -1,75 +1,57 @@
 # Nidhi Vedartham
+**TPM • AI Enablement • Systems Builder**
 
-TPM • AI Enablement • Systems Builder
+I build and ship AI systems that move from prototype to something a team actually uses. I turn LLMs into agents that are reliable and measurable, and I'm honest about where they save real time versus where it's just hype.
 
-I build and deploy AI systems that move from prototype to real workflow use. My focus is turning LLM capabilities into production-style agents, testing them in real environments, and iterating based on user feedback and measurable outcomes.
-
-My background is in embedded systems, IoT, and technical program management. More recently I've been spending a lot of time experimenting with AI—building tools, testing workflows, and helping teams figure out where it genuinely saves time versus where it's just hype. 
-
----
+My background is embedded systems, IoT, and technical program management. The last few years I've shifted hard into AI: building tools, running experiments, and helping engineering teams tell the difference between real gains and noise.
 
 ## What I've Shipped
 
-### AI Enablement Program — Ivani (IoT/OT)
-
-Built role-specific prompt libraries, workflow playbooks, training workshops, and adoption practices that helped engineers incorporate AI into day-to-day work.
+### AI Enablement Program, Ivani (IoT/OT)
+Designed role-specific prompt libraries, workflows, workshops, and adoption practices.
 
 **Results**
+- Organization-wide AI adoption in 2 weeks
+- ~50% reduction in engineer rework
+- ~8 minutes saved per AI query
+- Reusable libraries now used across engineering, business and marketing teams
 
-✓ Organization-wide AI adoption in 2 weeks
+Stack: Qwen3, Ollama, OpenWebUI
 
-✓ ~50% reduction in engineer rework
+### AI Governance, Ivani
+Built practical guidelines, evaluation frameworks, and review processes for responsible AI use in engineering and marketing workflows.
 
-✓ ~8 minutes eliminated per AI query
+## Recent Hackathon Builds
 
-✓ Built reusable prompt libraries and workflows used across engineering teams
+**TeamTrail, Slack Agent Builder Challenge**
+Stateful Slack onboarding agent that lives in the top bar, not a slash command. New hires get personalized briefings grounded in real workspace messages (Slack RTS API) and Notion docs (via MCP), with every claim cited back to its source. Built smoke tests early to catch API/MCP schema mismatches before full integration. Demo recording is the last step before submission.
+Stack: Bolt JS, Groq (LLaMA 3.3 70B), Slack RTS, MCP (Notion)
 
-**Stack:** Qwen3 · Ollama · OpenWebUI
+**Qwen Cloud MemoryAgent, Global AI Hackathon Series**
+Persistent memory layer that handles updates, conflicts, and forgetting instead of just appending facts forever. Validated with a 44-check test suite making live calls against the deployed instance.
+Stack: FastAPI, Qwen Cloud (qwen-plus), Neon Postgres + pgvector, Upstash Redis, Alibaba Cloud ECS
 
-### AI Governance — Ivani
+**Dead Code Finder, GitLab Transcend Hackathon**
+GitLab Duo agent that answers "is anyone actually calling this," with honest confidence levels (Confident / Uncertain / Skipped) instead of overclaiming. Read-only by design, it reports, it doesn't modify anything. Validated two independent ways and confirmed two genuinely dead SDK methods by both routes.
+Stack: GitLab Duo Agent Platform, GitLab Orbit, Python
 
-Established practical guidelines, evaluation frameworks, and review processes to support responsible AI adoption across engineering workflows.
-
-### Hackathon Builds
-
-* **CompassionateConnect** — Multi-agent mental health intake platform using Gemini 1.5 and Firestore with crisis detection and therapist-ready summaries.
-* **SafeSakhi** — Multimodal women's safety platform combining audio, motion, and text-based threat detection on AWS.
-* **GreenGrid** — Energy forecasting platform built with IoT data, SageMaker, and Bedrock.
-* **Therapist Dashboard** — Claude-powered clinician workflow assistant validated with feedback from a practicing therapist.
-
-### Currently Building
-
-**Slack AI Onboarding Agent**
-
-Using Groq, Llama 3.3 70B, Bolt, and Slack Socket Mode to help new team members find information faster and reduce onboarding friction.
-
----
+## Earlier Hackathon Builds
+- **CompassionateConnect** - Multi-agent mental health intake platform using Gemini 1.5 and Firestore with crisis detection and therapist-ready summaries.
+- **GreenGrid** - Energy forecasting platform built with IoT data, SageMaker, and Bedrock.
+- **Therapist Dashboard** - Claude-powered clinician workflow assistant validated with feedback from a practicing therapist.
 
 ## Background
+7+ years coordinating hardware, embedded, cloud, and data teams in IoT environments, sitting at the intersection of engineering execution and business outcomes. I help teams turn emerging AI capabilities into repeatable, measurable workflows.
 
-For the last 7+ years I've worked at the intersection of engineering execution and business outcomes, coordinating hardware, embedded, cloud, and data teams in IoT environments. I help teams turn emerging AI capabilities into repeatable, measurable workflows that improve engineering productivity.
+Earlier in my career I worked in embedded systems at Trane Technologies and taught engineering labs while finishing my M.S. in Electrical Engineering at the University of Texas at Tyler.
 
-Earlier in my career I worked in embedded systems at Trane Technologies and taught engineering labs while completing my M.S. in Electrical Engineering at the University of Texas at Tyler.
+I also co-founded Embark Women, growing a professional community that connected 500+ women through workshops, mentorship, and networking.
 
-I also co-founded Embark Women, helping grow a professional community that connected 500+ women through workshops, mentorship, and networking opportunities.
-
-Along the way I've participated in 9+ hackathons, contributed to projects in the Google and crewAI ecosystems, and spent an unreasonable amount of time experimenting with new technology.
-
----
+I've submitted to 5 hackathons, contributed to projects in the Google, GitLab, Qwen, and Slack ecosystems, and spent an unreasonable amount of time experimenting with new technology.
 
 ## Current Focus
+AI Enablement & Adoption, Agentic AI Systems, Technical Program Management, Workflow Automation, AI Governance, Multi-Agent Architectures, Model Context Protocol, AWS Bedrock, Gemini, Qwen, Ollama, LLM Evaluation & Prompt Engineering
 
-• AI Enablement & Adoption
-• Agentic AI Systems
-• Technical Program Management
-• Workflow Automation
-• AI Governance
-• Multi-Agent Architectures
-• AWS Bedrock, Gemini, Ollama
-• LLM Evaluation & Prompt Engineering
-
----
-
-H-1B • I-140 Approved • Open to Transfer
+**H-1B, I-140 Approved, Open to Transfer**
 
 LinkedIn · Devpost · GitHub
