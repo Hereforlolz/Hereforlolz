@@ -43,13 +43,11 @@ Stack: GitLab Duo Agent Platform, GitLab Orbit, Python
 
 ## Background
 
-7+ years coordinating hardware, embedded, cloud, and data teams in IoT environments, sitting at the intersection of engineering execution and business outcomes. I help teams turn emerging AI capabilities into repeatable, measurable workflows.
+8+ years coordinating hardware, embedded, cloud, and data teams in IoT environments, sitting at the intersection of engineering execution and business outcomes. I help teams turn emerging AI capabilities into repeatable, measurable workflows.
 
-Earlier in my career I worked in embedded systems at Trane Technologies and taught engineering labs while finishing my M.S. in Electrical Engineering at the University of Texas at Tyler.
+Earlier in my career I worked in embedded systems at Trane Technologies and taught as a part-time instructor for a summer engineering course while completing my M.S. in Electrical Engineering at the University of Texas at Tyler.
 
-I co-founded and grew Embark Women (2019-2022), a professional community that connected 500+ women through workshops, mentorship, and networking.
-
-I've submitted to 7 hackathons, contributed to projects in the Google, GitLab, Qwen, and Slack ecosystems, and spent an unreasonable amount of time experimenting with new technology.
+I co-founded and grew Embark Women (2017-2022), a professional community that connected 500+ women through workshops, mentorship, and networking.
 
 ## Current Focus
 
