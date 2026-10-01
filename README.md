@@ -1,6 +1,8 @@
 Sreenidhi Vedartham
 AI Systems Builder • Embedded/IoT Engineer • AI Enablement
 
+**Portfolio:** https://prototype-playground-vert.vercel.app
+
 I build and ship AI systems that move from prototype to something a team actually uses. I turn LLMs into agents that are reliable and measurable, and I'm honest about where they save real time versus where it's just hype.
 
 My background is embedded systems, IoT, and technical program management. The last few years I've shifted hard into AI: building tools, running experiments, and helping engineering teams tell the difference between real gains and noise.
@@ -29,23 +31,23 @@ Functional and field testing across ESP32, SiLabs, and Nordic SoCs, including fl
 
 ## Recent Hackathon Builds
 
-**TeamTrail, Slack Agent Builder Challenge**
+**[TeamTrail](https://github.com/Hereforlolz/teamtrail), Slack Agent Builder Challenge** ([Devpost](https://devpost.com/software/teamtrail))
 Stateful Slack onboarding agent that lives in the top bar, not a slash command. New hires get personalized briefings grounded in real workspace messages (Slack RTS API) and Notion docs (via MCP), with every claim cited back to its source. Built smoke tests early to catch API/MCP schema mismatches before full integration.
 Stack: Bolt JS, Groq (LLaMA 3.3 70B), Slack RTS, MCP (Notion)
 
-**Memory-Augmented AI Agent, Global AI Hackathon**
+**[Memory-Augmented AI Agent](https://github.com/Hereforlolz/qwen-memory-agent), Global AI Hackathon** ([Devpost](https://devpost.com/software/track-1-qwen-memoryagent))
 Persistent memory layer that handles updates, conflicts, and forgetting instead of just appending facts forever. LLM-arbitrated conflict resolution with weighted dedup and importance-ranked recall. Deployed to cloud, shipped solo in one week.
 Stack: FastAPI, PostgreSQL/pgvector, Redis
 
-**Dead Code Finder, GitLab Transcend Hackathon**
+**Dead Code Finder, GitLab Transcend Hackathon** ([Devpost](https://devpost.com/software/dead-code-finder), [GitLab](https://gitlab.com/gitlab-ai-hackathon/transcend/39335192))
 GitLab Duo agent that answers "is anyone actually calling this," with honest confidence levels (Confident / Uncertain / Skipped) instead of overclaiming. Read-only by design, it reports, it doesn't modify anything. Validated two independent ways and confirmed two genuinely dead SDK methods by both routes.
 Stack: GitLab Duo Agent Platform, GitLab Orbit, Python
 
 ## Earlier Hackathon Builds
 
-* **CompassionateConnect** - Multi-agent mental health intake platform using Gemini 1.5 and Firestore with crisis detection and therapist-ready summaries.
-* **GreenGrid** - Energy forecasting platform built with IoT data, SageMaker, and Bedrock.
-* **Therapist Dashboard** - Claude-powered clinician workflow assistant validated with feedback from a practicing therapist.
+* **[CompassionateConnect](https://github.com/Hereforlolz/Compassionate-connect)** - Multi-agent mental health intake platform using Gemini 1.5 and Firestore with crisis detection and therapist-ready summaries.
+* **[GreenGrid](https://github.com/Hereforlolz/GreenGrid)** - Energy forecasting platform built with IoT data, SageMaker, and Bedrock.
+* **[Therapist Dashboard](https://github.com/Hereforlolz/Therapist-Dashboard-AWS)** - Claude-powered clinician workflow assistant validated with feedback from a practicing therapist.
 
 ## Background
 
@@ -61,4 +63,4 @@ AI Enablement & Adoption, Agentic AI Systems, Technical Program Management, Work
 
 H-1B transfer only. Approved I-140, no lottery required.
 
-[LinkedIn](https://www.linkedin.com/in/sreenidhivedartham) · [GitHub](https://github.com/Hereforlolz)
+[Portfolio](https://prototype-playground-vert.vercel.app) · [LinkedIn](https://www.linkedin.com/in/sreenidhivedartham) · [GitHub](https://github.com/Hereforlolz) · [Dev.to](https://dev.to/hereforlolz)
