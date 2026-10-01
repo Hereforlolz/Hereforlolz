@@ -21,6 +21,12 @@ Stack: Hermes (Fireworks AI), GLM, MiniMax M3
 **AI Governance, Ivani**
 Built practical guidelines, evaluation frameworks, and review processes for responsible AI use in engineering and marketing workflows.
 
+**Embedded & Firmware, Ivani (Sensify)**
+Functional and field testing across ESP32, SiLabs, and Nordic SoCs, including flashing and provisioning a 1,000+ node deployment. Traced a permit-join ordering bug in OpenThread network formation, and resolved a partner-escalated field issue through on-site motion-trigger testing. Authored the merge request checklist adopted company-wide (five years and counting).
+
+**Engineering Coaching & Technical Strategy, Ivani**
+4+ years of cross-team coaching, 1:1s with 5+ engineers, and weekly rubber-ducking sessions that surfaced bugs engineers were stuck on.
+
 ## Recent Hackathon Builds
 
 **TeamTrail, Slack Agent Builder Challenge**
@@ -55,4 +61,4 @@ AI Enablement & Adoption, Agentic AI Systems, Technical Program Management, Work
 
 H-1B transfer only. Approved I-140, no lottery required.
 
-LinkedIn · Devpost · GitHub
+[LinkedIn](https://www.linkedin.com/in/sreenidhivedartham) · [GitHub](https://github.com/Hereforlolz)
